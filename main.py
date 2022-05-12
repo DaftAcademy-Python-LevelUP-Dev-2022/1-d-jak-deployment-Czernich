@@ -1,2 +1,2 @@
 class HerokuApp:
-    app_url = ""  # Fill your heroku app url here
+    app_url = "https://python-level-up-dev-homeworks.herokuapp.com/"  # Fill your heroku app url here
